@@ -103,7 +103,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode"       //
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"      // 以图搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"         // 叔叔的AI二次元图片放大
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"         // 
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"         //
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"      //
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"       // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"       // 测定
